@@ -1,2 +1,1 @@
-# wtassign5
-WT Lab Assignment 5
+# WT_Lab_Practical5
